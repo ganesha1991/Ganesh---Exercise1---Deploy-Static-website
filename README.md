@@ -21,7 +21,6 @@ Individual Screensnap images are present in the screensnaps directory.
 
 3. Bucket - Setting for static website hosting
 ![Bucket - Static website hosting-1](https://github.com/ganesha1991/Ganesh---Exercise1---Deploy-Static-website/assets/54432544/66298fa9-b6ab-48cb-94d4-20fb3145a891)
-
 ![Bucket - Static website hosting-2](https://github.com/ganesha1991/Ganesh---Exercise1---Deploy-Static-website/assets/54432544/35d7dfd5-361e-426c-bfda-0c56a5d4e192)
 
 4. S3 bucket - Permissions details set to Public
